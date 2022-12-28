@@ -4,7 +4,6 @@ This compressor fully open source software and this compressor all data availabl
 
 Changelog
 -----------------------------------------------
-- Added: New compressor versions v1.1.0.0 (Stable versions)
 - Added: AMD cpu support
 - Added: Intel cpu support
 - Added: RAM manege support
