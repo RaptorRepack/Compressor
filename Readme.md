@@ -11,8 +11,8 @@ Changelog
 - Added: Compressor api-core Ui system
 - Added: Time/Date Ci (CMD Interface) support
 - Added: English-Us language support only
-- Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
-- Fixed: Compressor CI (CMD Interface) all dialogs issues
+- Fixed: Compressor Ci (CMD Interface) in Windows 11 22H2 issues
+- Fixed: Compressor Ci (CMD Interface) all dialogs issues
 - Fixed: Compressor stability or system performance
 - Fixed: Compressor optimizations performance
 
