@@ -6,7 +6,7 @@ Changelog
 -----------------------------------------------
 - Added: AMD cpu support
 - Added: Intel cpu support
-- Added: RAM manege support
+- Added: RAM performance manege support
 - Added: Compressor api-core Ui system
 - Added: Time/Date Ci (CMD Interface) support
 - Added: English-Us language support only
