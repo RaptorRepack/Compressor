@@ -11,4 +11,28 @@ Changelog
 - Added: Compressor api-core Ui system
 - Added: Time/Date Ci (CMD Interface) support
 - Added: Language support only English-Us
-- Fixed: 
+- Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
+- Fixed: Compressor CI (CMD Interface) all dialogs issues
+- Fixed: Compressor stability or system performance
+- Fixed: Compressor optimizations performance
+
+Important notes
+-----------------------------------------------
+- This compressor working only latest versions repack toolkit.
+- If you my (Toolkit_v1.2) project files downloaded, so please renamed to "Toolkit" that's it.
+
+Latest versions
+-----------------------------------------------
+- v1.1.0.0
+
+Older versions
+-----------------------------------------------
+- Not available
+
+Upcoming versions
+-----------------------------------------------
+- Coming soon...
+
+Social media
+-----------------------------------------------
+Twitter page: http://shorturl.at/dfDEQ
