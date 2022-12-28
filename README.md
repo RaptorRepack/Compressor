@@ -10,7 +10,7 @@ Changelog
 - Added: RAM manege support
 - Added: Compressor api-core Ui system
 - Added: Time/Date Ci (CMD Interface) support
-- Added: Language support only English-Us
+- Added: English-Us language support only
 - Fixed: Compressor CI (CMD Interface) in Windows 11 22H2 issues
 - Fixed: Compressor CI (CMD Interface) all dialogs issues
 - Fixed: Compressor stability or system performance
