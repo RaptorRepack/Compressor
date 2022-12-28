@@ -7,7 +7,7 @@ Changelog
 - Added: AMD cpu support
 - Added: Intel cpu support
 - Added: RAM performance manege support
-- Added: Compressor api-core Ui system
+- Added: Compressor api-core Ui system support
 - Added: Time/Date Ci (CMD Interface) support
 - Added: English-Us language support only
 - Fixed: Compressor Ci (CMD Interface) in Windows 11 22H2 issues
