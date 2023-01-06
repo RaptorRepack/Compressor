@@ -19,8 +19,8 @@ Important notes
 -----------------------------------------------
 - This compressor working only latest versions repack toolkit.
 - If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
-- This versions compressor are internally testing.
-- Compressor coming in 6 January 2023 (GMT-6:00).
+- This versions compressor are internally testing has been closed.
+- Compressor coming in tomorrow.
 
 Latest versions
 -----------------------------------------------
