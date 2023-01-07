@@ -20,7 +20,7 @@ Important notes
 - This compressor working only latest versions repack toolkit.
 - If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
 - This versions compressor are internally testing has been closed.
-- Compressor coming in tomorrow.
+- Compressor coming in tomorrow 5:00pm (GMT-6:00).
 
 Latest versions
 -----------------------------------------------
