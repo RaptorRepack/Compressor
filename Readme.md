@@ -28,7 +28,7 @@ Latest versions
 
 Older versions
 -----------------------------------------------
-- Not available
+- v1.0.1.2022
 
 Upcoming versions
 -----------------------------------------------
