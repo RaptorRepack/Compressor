@@ -9,9 +9,9 @@ Changelog
 - Added: RAM Performance Stability Improved
 - Added: Time/Date Ci Performances Stability Improved
 - Added: English-Us Language Available Only
-- Added: Compressor Srep64 Full Version Patch Update
-- Added: Compressor Lzma64 Full Version Patch Update
-- Added: Compressor Zlib1 Data Compressing Libary
+- Added: New Version Srep64 Full Version Patch Update
+- Added: New Version Lzma64 Full Version Patch Update
+- Added: New Version Zlib1 Data Compressing Libary
 - Added: New Version Compressor Executable Files 
 - Added: New Compressor APi-Core Ui System
 - Fixed: Compressor Ci Windows 11 22H2 Issues
