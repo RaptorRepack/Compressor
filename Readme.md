@@ -4,31 +4,35 @@ This compressor fully open source software and this compressor all data availabl
 
 Changelog
 -----------------------------------------------
-- Added: AMD CPU Support
-- Added: Intel CPU Support
+- Added: AMD CPU Performances Stability Improved
+- Added: Intel CPU Performances Stability Improved
 - Added: RAM Performance Stability Improved
-- Added: Compressor Api-Core Ui System Support
-- Added: Time/Date Ci (CMD Interface) Support
-- Added: English-Us Language Support Only
-- Fixed: Compressor Ci (CMD Interface) In Windows 11 22H2 Issues
-- Fixed: Compressor Ci (CMD Interface) all dialogs issues
-- Fixed: Compressor Stability or System Performance
-- Fixed: Compressor Optimized Performance
+- Added: Time/Date Ci Performances Stability Improved
+- Added: English-Us Language Available Only
+- Added: Compressor Srep64 Full Version Patch Update
+- Added: Compressor Lzma64 Full Version Patch Update
+- Added: Compressor Zlib1 Data Compressing Libary
+- Added: New Version Compressor Executable Files 
+- Added: New Compressor APi-Core Ui System
+- Fixed: Compressor Ci Windows 11 22H2 Issues
+- Fixed: Compressor Ci All Dialogs Issues
+- Fixed: Compressor System Performance Stability Improved
+- Fixed: Compressor Optimized Performances Stability Improved
+- Remove: Precomp Compressor DLL Files
+- Remove: Unusual Compressor DLL/Folders
 
 Important notes
 -----------------------------------------------
-- This compressor working only latest versions repack toolkit.
 - If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
-- This versions compressor are internally testing has been closed.
-- Compressor coming in tomorrow 5:00pm (GMT-6:00).
+- This compressor working only for new versions game repack toolkit.
 
 Latest versions
 -----------------------------------------------
-- v1.1.0.0 Not released only release changelog
+- v1.1.0.0 Today coming in this version.
 
 Older versions
 -----------------------------------------------
-- v1.0.1.2022
+- v1.0.1.2022 RELEASED
 
 Upcoming versions
 -----------------------------------------------
