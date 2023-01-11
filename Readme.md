@@ -2,33 +2,18 @@ This compressor using only repack game data create purpose.
 
 This compressor fully open source software and this compressor all data available for my GitHub page only.
 
-Changelog
+Information
 -----------------------------------------------
-- Added: AMD CPU Performances Stability Improved
-- Added: Intel CPU Performances Stability Improved
-- Added: RAM Performance Stability Improved
-- Added: Time/Date Ci Performances Stability Improved
-- Added: English-Us Language Available Only
-- Added: New Version Srep64 Full Version Patch Update
-- Added: New Version Lzma64 Full Version Patch Update
-- Added: New Version Zlib1 Data Compressing Libary
-- Added: New Version Compressor Executable Files 
-- Added: New Compressor APi-Core Ui System
-- Fixed: Compressor Ci Windows 11 22H2 Issues
-- Fixed: Compressor Ci All Dialogs Issues
-- Fixed: Compressor System Performance Stability Improved
-- Fixed: Compressor Optimized Performances Stability Improved
-- Remove: Precomp Compressor DLL Files
-- Remove: Unusual Compressor DLL/Folders
-
-Important notes
------------------------------------------------
-- If you my project files downloaded, please project file name renamed to "Toolkit" because compressor working for "Toolkit" file name and install now compressor and then use to compressor.
-- This compressor working only for new versions game repack toolkit.
+- Product Name: Compressor
+- Product Version: v1.1.0.0
+- Product Arctecture: 64bit/32bit
+- Product Space Size: 11.04 MB
+- Product Designer/Developer: Raptor Repack
+- Product Copyright: © Raptor Repack 2023,Inc
 
 Latest versions
 -----------------------------------------------
-- v1.1.0.0 Today coming in this version.
+- v1.1.0.0 RELEASED
 
 Older versions
 -----------------------------------------------
