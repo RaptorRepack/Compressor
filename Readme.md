@@ -5,7 +5,7 @@ This compressor fully open source software and this compressor all data availabl
 Information
 -----------------------------------------------
 - Product Name: Compressor
-- Product Version: v1.2.0.0 Coming Soon...
+- Product Version: v1.1.9.0 (Beta)
 - Product Arctecture: 64bit/32bit
 - Product Space Size: <...> Coming Soon...
 - Product Designer/Developer: Raptor Repack
@@ -13,7 +13,8 @@ Information
 
 Latest versions
 -----------------------------------------------
-- v1.1.0.0 RELEASED
+- v1.1.9.0 Stable Beta Available In 10 March
+- v1.2.0.0 Coming Soon..!
 
 Older versions
 -----------------------------------------------
@@ -25,7 +26,10 @@ Upcoming versions
 - v1.2.0.0 Coming Soon...
 
 Important Note:
-- New Version Compressor Just Announced..!
+- Compressor v1.1.9.0 Stable Beta Executable Files Available In 10 March 2023.
+- Normal Stable Beta Executable Files Available In Separately.
+- Compressor v1.2.0.0 Under Testing Started.
+- This (Compressor v1.2.0.0) Available In New Versions (Game Repack Toolkit v1.3.0.0) Only.
 
 Social media
 -----------------------------------------------
