@@ -5,9 +5,9 @@ This compressor fully open source software and this compressor all data availabl
 Information
 -----------------------------------------------
 - Product Name: Compressor
-- Product Version: v1.1.0.0
+- Product Version: v1.2.0.0 Coming Soon...
 - Product Arctecture: 64bit/32bit
-- Product Space Size: 11.04 MB
+- Product Space Size: <...> Coming Soon...
 - Product Designer/Developer: Raptor Repack
 - Product Copyright: © Raptor Repack 2023,Inc
 
@@ -17,11 +17,15 @@ Latest versions
 
 Older versions
 -----------------------------------------------
+- v1.1.0.0
 - v1.0.1.2022
 
 Upcoming versions
 -----------------------------------------------
-- v1.2.0.0 Not Sure
+- v1.2.0.0 Coming Soon...
+
+Important Note:
+- New Version Compressor Just Announced..!
 
 Social media
 -----------------------------------------------
