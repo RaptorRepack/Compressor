@@ -13,7 +13,7 @@ Information
 
 Latest versions
 -----------------------------------------------
-- v1.1.9.0 Stable Beta Available In 10 March
+- v1.1.9.0 Beta Available In 10 March
 - v1.2.0.0 Coming Soon..!
 
 Older versions
@@ -26,9 +26,10 @@ Upcoming versions
 - v1.2.0.0 Coming Soon...
 
 Important Note:
-- Compressor v1.1.9.0 Stable Beta Executable Files Available In 10 March 2023.
-- Normal Stable Beta Executable Files Available In Separately.
+- Compressor v1.1.9.0 Beta Executable Files Available In 10 March 2023.
+- Compressor Beta Executable Files Available Separately.
 - Compressor v1.2.0.0 Under Testing Started.
+- This Beta Compressor (Game Repack Toolkit v1.2.9.0 Beta) Include Version Release In 10 March 2023. 
 - This (Compressor v1.2.0.0) Available In New Versions (Game Repack Toolkit v1.3.0.0) Only.
 
 Social media
